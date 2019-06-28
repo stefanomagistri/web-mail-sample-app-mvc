@@ -197,3 +197,4 @@ node_modules
 logs
 *.log
 npm-debug.log*
+/lib/KENDOUIMVC/2019.2.514.545
